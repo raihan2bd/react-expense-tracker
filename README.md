@@ -8,7 +8,9 @@ User can track their expenses and also user can filter thir expenses by selectin
 </p>
 
 ## Demo
-[Live Demo](https://react-my-burger-36803.firebaseapp.com/)
+![React Expense Tracker](https://user-images.githubusercontent.com/35267447/212456980-e0da7471-7f24-4d09-9ad0-90afa61f6c46.png)
+
+[Live Demo](https://react-expense-tracker-pearl.vercel.app/)
 
 ## 💻 Getting Started
 - To get star with this package first of all you have to clone the project ⬇️
